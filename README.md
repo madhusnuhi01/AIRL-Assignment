@@ -1,6 +1,6 @@
 # AIRL — Internship Coding Assignment
 
-**Author:** *(Your Name Here)*  
+**Author:** Madhusnuhi Panda  
 **Repo contents:** `q1.ipynb`, `q2.ipynb`, `README.md`
 
 ---
@@ -92,9 +92,4 @@ Increasing depth to 8 gave only marginal gains (< 1 %) but required more careful
 RandAugment improved generalization by roughly 2 % over simple crop-and-flip augmentation, and the AdamW + cosine scheduler combination was more stable than SGD with fixed LR.
 
 ---
-
-## Reproducibility Checklist
-✅ Use GPU runtime in Colab  
-✅ Run `q1.ipynb` and `q2.ipynb` top-to-bottom successfully  
-✅ Repo contains only `q1.ipynb`, `q2.ipynb`, and `README.md`  
-✅ Report **85.66 % CIFAR-10 Accuracy** and repo link in the Google Form  
+ 
